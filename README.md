@@ -23,9 +23,18 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository
    ```sh
    git clone https://github.com/your-username/emails-app.git
-
-
-cd emails-app
+2.step
+   ```sh
+   cd emails-app
+3.step
+   ```sh
 npm install
-npm start
+4.step
+   ```sh
+   npm start
+
+
+
+
+
 
