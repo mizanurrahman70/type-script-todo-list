@@ -1,10 +1,10 @@
-# Emails App
+# to do list
 
 This is a simple React application that manages a list of emails. The application allows users to add and remove emails from the list.
 
 ## Live Demo
 
-Check out the live demo: [Emails App](https://eclectic-jelly-a78874.netlify.app/)
+Check out the live demo: [todo list](https://eclectic-jelly-a78874.netlify.app/)
 
 ## Features
 
